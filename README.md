@@ -4,4 +4,10 @@ Just test text
 
 ADD TEXT IN ANYWHERE
 
+<<<<<<< HEAD
 ********************
+=======
+********************
+
+////////////////////
+>>>>>>> codeanywhere
